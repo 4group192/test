@@ -1,1 +1,1 @@
-print('hi mom 123 123 123 123 123 123')
+print('nice dick bro')
