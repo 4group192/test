@@ -1,1 +1,1 @@
-'ne pishi'
+'pishi'
