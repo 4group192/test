@@ -1,1 +1,1 @@
-'ne pishi'
+'NET pishi'
